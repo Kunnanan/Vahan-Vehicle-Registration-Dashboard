@@ -119,7 +119,7 @@ Record a short demo (max 5 minutes) showing:
 Upload to **YouTube (unlisted)** or **Google Drive** and paste the link below:
 
 ```
-[Your Video Link]
+https://drive.google.com/file/d/1AnUfHH-Q3ffeUKf20SjIx46BJgWnEgpL/view?usp=sharing
 ```
 
 ---
